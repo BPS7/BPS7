@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhanu Pratap Singh
-- 👀 I’m interested in Automation testing and Manual testing of web based applocation
+- 👀 I’m interested in Automation testing and Manual testing of web based application
 - 👀 I have experience in Selenium , BDD, POM, DD,Hybrid , Cucumber, CI/CD .
 - 🌱 I’m currently learning cypress 
 - 💞️ I’m looking to collaborate on project domain of E-commerce , Banking .
