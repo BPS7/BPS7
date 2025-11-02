@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Bhanu Pratap Singh
 - 👀 I’m interested in Automation testing and Manual testing of web based application
-- 👀 I have experience in Selenium , BDD, POM, DD,Hybrid , Cucumber, CI/CD .
+- 👀 I have experience in Playwright + typescript ,Selenium+java , BDD, POM, DD,Hybrid , Cucumber, CI/CD .
+- Api Automation using Playwright and RestAssured
 - 🌱 I’m currently learning cypress 
-- 💞️ I’m looking to collaborate on project domain of E-commerce , Banking .
+- 💞️ I’m looking to collaborate on project domain of E-commerce , Banking , Education , Fintech, .
 - 📫 How to reach me Mail me at bhanupratapsingh224@gmail.com
 
 <!---
